@@ -5,26 +5,17 @@
 
 <!-- <img align="right" alt="Coding" width="200" src="http://wiki.stat.ucla.edu/socr/uploads/a/a2/JAVA_animated.gif"/> -->
 
-- 🔭 I’m currently working on **My blog website**
+- 🔭 I’m currently working on **my personal website**
 
 - 🌱 I’m currently learning **Spring boot Security**
 
 - 👨‍💻 All of my projects are available at [harounabidi.me](https://harounabidi.me)
 
-<!--- 👯 I’m looking to collaborate on **Pr**-->
-
-<!--- 🤝 I’m looking for help with **Pr**
-
-- 📝 I regularly write articles on [www.harounabidi.com/blog](https://www.harounabidi.com/blog)-->
-
-<!--
-- 💬 Ask me about **React**-->
-
 - 📫 How to reach me **harooonabidi@gmail.com**
 
 <!--- 📄 Know about my experiences [resume](https://www.harounabidi.com/resume)
 
-- ⚡ Fun fact **😁**-->
+- ⚡ Fun fact **😁** -->
 
 <h3 align="left">Connect with me:</h3>
 
