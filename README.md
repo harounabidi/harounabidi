@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring boot Security**
 
-- 👨‍💻 All of my projects are available at [www.harounabidi.me](https://www.harounabidi.me)
+- 👨‍💻 All of my projects are available at [www.harounabidi.me](https://harounabidi.me)
 
 <!--- 👯 I’m looking to collaborate on **Pr**-->
 
