@@ -13,13 +13,14 @@
 
 - 🌱 I’m currently learning **Spring boot Security**
 
+- 👨‍💻 All of my projects are available at [www.harounabidi.me](https://www.harounabidi.me)
+
 <!--- 👯 I’m looking to collaborate on **Pr**-->
 
 <!--- 🤝 I’m looking for help with **Pr**
 
-- 👨‍💻 All of my projects are available at [www.harounabidi.com](https://www.harounabidi.com)
-
 - 📝 I regularly write articles on [www.harounabidi.com/blog](https://www.harounabidi.com/blog)-->
+
 <!--
 - 💬 Ask me about **React**-->
 
