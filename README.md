@@ -3,17 +3,13 @@
 <h1 align="center">Hi 👋, I'm Haroun</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=harounabidi&label=Profile%20views&color=0e75b6&style=flat" alt="harounabidi" /> 
-</p>
-
 <!-- <img align="right" alt="Coding" width="200" src="http://wiki.stat.ucla.edu/socr/uploads/a/a2/JAVA_animated.gif"/> -->
 
 - 🔭 I’m currently working on **My blog website**
 
 - 🌱 I’m currently learning **Spring boot Security**
 
-- 👨‍💻 All of my projects are available at [www.harounabidi.me](https://harounabidi.me)
+- 👨‍💻 All of my projects are available at [harounabidi.me](https://harounabidi.me)
 
 <!--- 👯 I’m looking to collaborate on **Pr**-->
 
