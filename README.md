@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **Spring boot Security**
+- 🌱 I’m currently learning **Next.js 13 Next auth**
 
 - 👨‍💻 All of my projects are available at [harounabidi.me](https://harounabidi.me)
 
