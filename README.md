@@ -1,13 +1,11 @@
 <!-- [![MasterHead](https://s26162.pcdn.co/wp-content/uploads/2017/02/07-countdown-down-up-02b.gif)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Haroun</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <!-- <img align="right" alt="Coding" width="200" src="http://wiki.stat.ucla.edu/socr/uploads/a/a2/JAVA_animated.gif"/> -->
 
 - 🔭 I’m currently working on **my personal website**
-
-- 🌱 I’m currently learning **Next.js 13 Next auth**
 
 - 👨‍💻 All of my projects are available at [harounabidi.me](https://harounabidi.me)
 
