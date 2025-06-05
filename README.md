@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [harounabidi.me](https://harounabidi.me)
 
-- 📫 How to reach me **contact@harounabidi.me**
+- 📫 How to reach me **contact@harounabidi.com**
 
 <!--- 📄 Know about my experiences [resume](https://www.harounabidi.com/resume)
 
